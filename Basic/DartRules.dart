@@ -4,6 +4,8 @@
 *       A. Numbers - Int & Double Only
 *       B. String
 *       c. Booleans
+*       d. List (also known as array)
+*       e. Map
 *
 * Note : Dart not have float,long, char, bite, and others.
 *
